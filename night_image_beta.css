@@ -51,15 +51,15 @@ body {
 }
 
 
-@media only screen and (min-width: 1400px) {
+@media only screen and (min-width: 1400px) {       /* 如果在计算机屏幕上显示，且屏幕宽度大于1400 */
 	#write {
-		max-width: 1024px;
+		max-width: 1920px;
 	}
 }
 
 @media only screen and (min-width: 1800px) {
 	#write {
-		max-width: 1200px;
+		max-width: 1920px;
 	}
 }
 
